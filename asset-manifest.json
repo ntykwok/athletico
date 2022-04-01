@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/athletico/static/css/main.63eb78d2.css",
+    "main.js": "/athletico/static/js/main.2b8077bc.js",
+    "static/js/787.9896feea.chunk.js": "/athletico/static/js/787.9896feea.chunk.js",
+    "index.html": "/athletico/index.html",
+    "main.63eb78d2.css.map": "/athletico/static/css/main.63eb78d2.css.map",
+    "main.2b8077bc.js.map": "/athletico/static/js/main.2b8077bc.js.map",
+    "787.9896feea.chunk.js.map": "/athletico/static/js/787.9896feea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63eb78d2.css",
+    "static/js/main.2b8077bc.js"
+  ]
+}
