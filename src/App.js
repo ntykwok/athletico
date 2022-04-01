@@ -17,7 +17,7 @@ export default class App extends Component {
         <div class="logo_box">
         <a class="navbar-brand" href="#">
             <span>
-            Slark
+            Athletico
             </span>
         </a>
         </div>
@@ -33,30 +33,30 @@ export default class App extends Component {
             <div class="carousel-item active">
                 <div class="detail-box">
                 <h1>
-                    A <br />
-                    simple <br />
-                    guide to <br />
-                    style
+                    The <br />
+                    Semester <br />
+                    is coming to <br />
+                    the end
                 </h1>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="detail-box">
                 <h1>
-                    A <br />
-                    simple <br />
-                    guide to <br />
-                    style
+                    I <br />
+                    am <br />
+                    f**king <br />
+                    tired
                 </h1>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="detail-box">
                 <h1>
-                    A <br />
-                    simple <br />
-                    guide to <br />
-                    style
+                    Can <br />
+                    you <br />
+                    guys find <br />
+                    a slogan?
                 </h1>
                 </div>
             </div>
@@ -75,32 +75,32 @@ export default class App extends Component {
             </div>
             <div id="myNav" class="overlay">
             <div class="overlay-content">
-                <a href="https://therichpost.com">Home</a>
-                <a href="https://therichpost.com">Men</a>
-                <a href="https://therichpost.com">Women</a>
-                <a href="https://therichpost.com">Contact Us</a>
+                <a href="">Home</a>
+                <a href="">Men</a>
+                <a href="">Women</a>
+                <a href="">Contact Us</a>
             </div>
             </div>
         </div>
         <div class="social_container">
             <div class="social-box">
             <div>
-                <a href="https://therichpost.com">
+                <a href="">
                 <img src="assets/images/fb-top.png" alt="" />
                 </a>
             </div>
             <div>
-                <a href="https://therichpost.com">
+                <a href="">
                 <img src="assets/images/twitter-top.png" alt="" />
                 </a>
             </div>
             <div>
-                <a href="https://therichpost.com">
+                <a href="">
                 <img src="assets/images/linkedin-top.png" alt="" />
                 </a>
             </div>
             <div>
-                <a href="https://therichpost.com">
+                <a href="">
                 <img src="assets/images/instagram-top.png" alt="" />
                 </a>
             </div>
@@ -130,10 +130,10 @@ export default class App extends Component {
                     Lorem ipsum dolor sit amet, consectetur adipiscing mod tempor incididunt
                 </p>
                 <div class="btn-box">
-                    <a href="https://therichpost.com" class="btn1">
+                    <a href="" class="btn1">
                     Buy Now
                     </a>
-                    <a href="https://therichpost.com" class="btn2">
+                    <a href="" class="btn2">
                     See More
                     </a>
                 </div>
@@ -416,27 +416,27 @@ export default class App extends Component {
                 </h5>
                 <ul>
                     <li>
-                    <a href="https://therichpost.com">
+                    <a href="">
                         Contrary
                     </a>
                     </li>
                     <li>
-                    <a href="https://therichpost.com">
+                    <a href="">
                         to popular belief,
                     </a>
                     </li>
                     <li>
-                    <a href="https://therichpost.com">
+                    <a href="">
                         Lorem Ipsum is
                     </a>
                     </li>
                     <li>
-                    <a href="https://therichpost.com">
+                    <a href="">
                         not simply
                     </a>
                     </li>
                     <li>
-                    <a href="https://therichpost.com">
+                    <a href="">
                         random text. It
                     </a>
                     </li>
@@ -469,22 +469,22 @@ export default class App extends Component {
                 <div class="col-md-6 mb-0">
                     <div class="info_social">
                     <div>
-                        <a href="https://therichpost.com">
+                        <a href="">
                         <img src="assets/images/fb.png" alt="" />
                         </a>
                     </div>
                     <div>
-                        <a href="https://therichpost.com">
+                        <a href="">
                         <img src="assets/images/twitter.png" alt="" />
                         </a>
                     </div>
                     <div>
-                        <a href="https://therichpost.com">
+                        <a href="">
                         <img src="assets/images/linkedin.png" alt="" />
                         </a>
                     </div>
                     <div>
-                        <a href="https://therichpost.com">
+                        <a href="">
                         <img src="assets/images/instagram.png" alt="" />
                         </a>
                     </div>
@@ -499,8 +499,8 @@ export default class App extends Component {
    
     <section class="container-fluid footer_section">
         <p>
-        &copy; 2021 All Rights Reserved. Design by
-        <a href="https://therichpost.com">Free Html Templates</a>
+        &copy; 2021 All Rights Reserved. Modified by
+        <a href="">Nicholas Kwok</a>
         </p>
     </section>
        
