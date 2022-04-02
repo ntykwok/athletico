@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.min.js"
+import { HashRouter as Router, Route } from 'react-router-dom'
+
 export default class App extends Component {
     openNav() {
         document.getElementById("myNav").classList.toggle("menu_width");
@@ -10,7 +12,6 @@ export default class App extends Component {
       }
     render() {
         return (
-   
         <div>
       
         <div class="hero_area">
