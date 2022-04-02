@@ -139,6 +139,88 @@ export default class Women extends Component {
         <br />
         <br />
         </h1>
+        <section class="cards">
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        <div class="card">
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeans-2-1615561459.jpg?crop=0.486xw:0.971xh;0.258xw,0.0160xh&resize=640:*"></img>
+            <br />
+            <h3>Tailored Jeans</h3>
+            <p class="price">$19.99</p>
+            <p>Some text about the jeans..</p>
+            <p><button>Add to Cart</button></p>
+        </div>
+        </section>
     </section>
    
     <section class="info_section layout_padding">
