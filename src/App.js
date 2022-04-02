@@ -500,7 +500,7 @@ export default class App extends Component {
     <section class="container-fluid footer_section">
         <p>
         &copy; 2021 All Rights Reserved. Modified by
-        <a href="">Nicholas Kwok</a>
+        <a href=""> Nicholas Kwok</a>
         </p>
     </section>
        
