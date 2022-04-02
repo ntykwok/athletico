@@ -75,7 +75,7 @@ export default class Home extends Component {
             </div>
             <div id="myNav" class="overlay">
             <div class="overlay-content">
-                <a href="">Home</a>
+                <Link to="Home">Home</Link>
                 <Link to="Men">Men</Link>
                 <Link to="Women">Women</Link>
                 <a href="">Buy Now</a>
