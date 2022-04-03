@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom"
 import Home from "./Home"
 import Men from "./Men"
 import Women from "./Women"
+import CheckOut from "./CheckOut"
 
 function App() {
     return (

@@ -15,11 +15,11 @@ export default class Women extends Component {
 
         <div class="hero_area">
         <div class="logo_box">
-        <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="#">
             <span>
             Athletico
             </span>
-        </a>    
+            </a>    
         </div>
        
         <section class=" slider_section position-relative">
@@ -82,6 +82,7 @@ export default class Women extends Component {
             </div>
             </div>
         </div>
+        
         <div class="social_container">
             <div class="social-box">
             <div>
@@ -97,7 +98,7 @@ export default class Women extends Component {
             </div>
         </div>
         </div>
-    </div>
+        </div>
  
     <section class="women_section layout_padding">
         <div class="container">
