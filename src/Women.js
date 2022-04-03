@@ -78,7 +78,7 @@ export default class Women extends Component {
                 <Link to="/">Home</Link>
                 <Link to="/Men">Men</Link>
                 <a href="">Women</a>
-                <a href="">Buy Now</a>
+                <Link to="CheckOut">Buy Now</Link>
             </div>
             </div>
         </div>
